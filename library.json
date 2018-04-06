@@ -1,0 +1,22 @@
+{
+  "name":"Interval",
+  "description":"Make timing by using intervals instead of delay()",
+  "keywords":"interval,delay",
+  "authors":
+  {
+    "name": "Pavel Brychta",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Pablo2048/Interval.git"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "build": {
+    "libCompatMode": 2
+  }
+}
